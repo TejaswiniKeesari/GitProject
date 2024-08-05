@@ -8,3 +8,6 @@ git commit -m "commit messsge"
 git push
 change the file in github repository
 git pull
+git status
+git checkout
+git log
