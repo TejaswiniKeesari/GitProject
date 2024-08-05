@@ -6,3 +6,5 @@ manually creat a file
 git add file name
 git commit -m "commit messsge"
 git push
+change the file in github repository
+git pull
